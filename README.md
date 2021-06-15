@@ -5,4 +5,5 @@
 - 👨‍💻 All of my projects are available at [https://github.com/atharvakale31](https://github.com/atharvakale31)
 
 - 📫 How to reach me **atharvakale31@gmail.com**
+- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvakale31&show_icons=true&locale=en" alt="supriy0498" /></p>
 
