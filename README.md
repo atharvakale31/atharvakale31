@@ -6,13 +6,13 @@
 <img src="https://komarev.com/ghpvc/?username=atharvakale31" alt="atharvakale31" /> </p>
 
 
-- :school: I'm currently a Fourth Year CSE student at [VIIT](https://www.viit.ac.in/) 
+- :school: Fourth Year CSE student at [VIIT](https://www.viit.ac.in/) 
 
 <!-- - 🔭 I’m currently working on  **Backend Development** -->
 
-- 🌱 I’m currently exploring **Bayesian Machine Learning and Auto-encoders**
+- 🌱 I’m currently exploring **Bayesian Machine Learning and Variational Auto-encoders**
 
-- 🎸 I’m currently learning to play Ukulele
+- 🎸 And also learning to play Ukulele
 
 <!-- - 🤔 I’m looking for help with Data Structures and Algorithms 😭 -->
 
