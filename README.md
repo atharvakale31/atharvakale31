@@ -26,9 +26,8 @@
 <!-- - 🌐 Visit my [porfolio website](https://.github.io/) for complete background and contact. -->
 
 - ⚡ Languages:  **Python3 | Java | C++**
-<div align="center">
- <a href="https://www.linkedin.com/in/atharvakale31" target="_blank" rel="nofollow"><img align="right" alt="Atharva's Linkdein" width="22px" src="https://image000.flaticon.com/png/512/2111/2111499.png" /></a><a href="https://www.instagram.com/atharva_kale_" target="_blank" rel="nofollow"><img align="right" alt="Atharva's Insta" width="22px" src="https://image000.flaticon.com/png/512/174/174855.png" /></a>
-</div>
+
+- 👨‍💼 <a href="https://www.linkedin.com/in/atharvakale31" target="_blank" rel="nofollow">Linkedin</a>
 
 * GitHub stats:  
 
