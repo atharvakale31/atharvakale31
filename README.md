@@ -6,13 +6,13 @@
 <img src="https://komarev.com/ghpvc/?username=atharvakale31" alt="atharvakale31" /> </p>
 
 
+- 🌱 Quantitative Analyst at [Aspect Ratio](https://www.aspectratioai.com/)
+
 - :school: Fourth Year CSE student at [VIIT](https://www.viit.ac.in/) 
 
 <!-- - 🔭 I’m currently working on  **Backend Development** -->
 
-- 🌱 I’m currently exploring **Bayesian Machine Learning and Variational Auto-encoders**
-
-- 🎸 And also learning to play Ukulele
+- 🎸 I am learning to play Guitar & Ukulele
 
 <!-- - 🤔 I’m looking for help with Data Structures and Algorithms 😭 -->
 
