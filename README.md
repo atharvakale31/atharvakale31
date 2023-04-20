@@ -1,5 +1,5 @@
 <div align="center">
-  <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'></a>
+  
 </div>
 <h1 align="center">Hi 👋, I'm Atharva Kale</h1> 
 <h3 align="center">A passionate Developer and Data Science enthusiast from India</h3>
